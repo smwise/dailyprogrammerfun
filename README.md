@@ -8,6 +8,8 @@
 
 232 [Palindromes](https://www.reddit.com/r/dailyprogrammer/comments/3kx6oh/20150914_challenge_232_easy_palindromes/) (Erlang)
 
+236 [Random Bag System](https://www.reddit.com/r/dailyprogrammer/comments/3ofsyb/20151012_challenge_236_easy_random_bag_system/) (C)
+
 ## Intermediate
 
 225 [Estimating Pi from Images of Circles](https://www.reddit.com/r/dailyprogrammer/comments/3f0hzk/20150729_challenge_225_intermediate_estimating_pi/) (Python)
